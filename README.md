@@ -6,7 +6,7 @@ I'm a Computer Science student at Instituto Superior Técnico (IST). This profil
 
 ### Year 1
 - FP
-  - Project 1 (Scrabble): [joaombmcoelho/scrabble]
-  - Project 2 (Scrabble BOT): [joaombmcoelho/scrabble_bot]
+  - Project 1 (Scrabble): [joaombmcoelho/scrabble](https://github.com/joaombmcoelho/Scrabble1-FP.git)
+  - Project 2 (Scrabble BOT): [joaombmcoelho/scrabble_bot](https://github.com/joaombmcoelho/Scrabble2-FP.git)
 - LP
   - Project (A Computational Journey with Prolog): [joaombmcoelho/prolog_journey](https://github.com/joaombmcoelho/Prolog_Journey-LP.git)
