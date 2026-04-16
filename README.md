@@ -10,3 +10,6 @@ I'm a Computer Science student at Instituto Superior Técnico (IST). This profil
   - Project 2 (Scrabble BOT): [joaombmcoelho/scrabble_bot](https://github.com/joaombmcoelho/Scrabble2-FP.git) [ Python ]
 - LP
   - Project (A Computational Journey with Prolog): [joaombmcoelho/prolog_journey](https://github.com/joaombmcoelho/Prolog_Journey-LP.git) [ Prolog ]
+
+- IAED
+  - Project (Invoicing System): [joaombmcoelho/invoicing_system](https://github.com/joaombmcoelho/Invoicing_system-IAED.git) [C]
