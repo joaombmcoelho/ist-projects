@@ -13,3 +13,8 @@ I'm a Computer Science student at Instituto Superior Técnico (IST). This profil
 
 - IAED
   - Project (Invoicing System): [joaombmcoelho/invoicing_system](https://github.com/joaombmcoelho/Invoicing_system-IAED.git) [C]
+
+- IAC
+  - Project 1 (Intro to Mini-Transformer):[joaombmcoelho/invoicing_system](https://github.com/joaombmcoelho/Invoicing_system-IAED.git) [Assembly RISC-V]
+  - Project 2 (Mini-Transformer neural network): [joaombmcoelho/invoicing_system](https://github.com/joaombmcoelho/Invoicing_system-IAED.git) [Assembly RISC-V]
+  - Project 3 (16-bit processor with DOT acceleration): [joaombmcoelho/invoicing_system](https://github.com/joaombmcoelho/Invoicing_system-IAED.git) [Logisim]
