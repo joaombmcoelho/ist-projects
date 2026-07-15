@@ -1,8 +1,8 @@
 # IST Projects
 
-I'm a Computer Science student at Instituto Superior Técnico (IST). This profile showcases the programming projects that I've developed across various courses.
+I'm a Computer Science and Engineering student at Instituto Superior Técnico (IST). This profile showcases the programming projects I developed across various courses.
 
-## Course Projects
+## Academic Projects
 
 ### Year 1
 - FP
