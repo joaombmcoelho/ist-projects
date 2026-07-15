@@ -15,6 +15,6 @@ I'm a Computer Science and Engineering student at Instituto Superior Técnico (I
   - Project (Invoicing System): [joaombmcoelho/invoicing_system](https://github.com/joaombmcoelho/Invoicing_system-IAED.git) [C]
 
 - Introduction to Computer Architecture (IAC)
-  - Project 1 (Intro to Mini-Transformer): [joaombmcoelho/Mini-Transformer_P1](https://github.com/joaombmcoelho/Mini_Transformer_P1-IAC.git) [Assembly RISC-V]
+  - Project 1 (Mini-Transformer Vector Operations): [joaombmcoelho/Mini-Transformer_P1](https://github.com/joaombmcoelho/Mini_Transformer_P1-IAC.git) [Assembly RISC-V]
   - Project 2 (Mini-Transformer neural network): [joaombmcoelho/Mini-Transformer_P2](https://github.com/joaombmcoelho/Mini-Transformer_P2-IAC.git) [Assembly RISC-V]
   - Project 3 (16-bit processor with DOT acceleration): [joaombmcoelho/Mini-Transformer_P3](https://github.com/joaombmcoelho/Mini-Transformer_P3-IAC.git) [Logisim]
