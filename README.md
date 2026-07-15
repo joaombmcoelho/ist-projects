@@ -5,16 +5,16 @@ I'm a Computer Science and Engineering student at Instituto Superior Técnico (I
 ## Academic Projects
 
 ### Year 1
-- FP
+- Foundations of Programming (FP)
   - Project 1 (Scrabble): [joaombmcoelho/scrabble](https://github.com/joaombmcoelho/Scrabble1-FP.git) [ Python ]
   - Project 2 (Scrabble BOT): [joaombmcoelho/scrabble_bot](https://github.com/joaombmcoelho/Scrabble2-FP.git) [ Python ]
-- LP
+- Logic for Programming (LP)
   - Project (A Computational Journey with Prolog): [joaombmcoelho/prolog_journey](https://github.com/joaombmcoelho/Prolog_Journey-LP.git) [ Prolog ]
 
-- IAED
+- Introduction to Algorithms and Data Structures (IAED)
   - Project (Invoicing System): [joaombmcoelho/invoicing_system](https://github.com/joaombmcoelho/Invoicing_system-IAED.git) [C]
 
-- IAC
+- Introduction to Computer Architecture (IAC)
   - Project 1 (Intro to Mini-Transformer): [joaombmcoelho/Mini-Transformer_P1](https://github.com/joaombmcoelho/Mini_Transformer_P1-IAC.git) [Assembly RISC-V]
   - Project 2 (Mini-Transformer neural network): [joaombmcoelho/Mini-Transformer_P2](https://github.com/joaombmcoelho/Mini-Transformer_P2-IAC.git) [Assembly RISC-V]
   - Project 3 (16-bit processor with DOT acceleration): [joaombmcoelho/Mini-Transformer_P3](https://github.com/joaombmcoelho/Mini-Transformer_P3-IAC.git) [Logisim]
