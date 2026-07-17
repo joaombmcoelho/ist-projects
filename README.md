@@ -6,10 +6,10 @@ I am a Computer Science and Engineering student at Instituto Superior Técnico (
 
 ### Year 1
 - Foundations of Programming (FP)
-  - Project 1 (Scrabble I): [joaombmcoelho/scrabble](https://github.com/joaombmcoelho/Scrabble1-FP.git) [ Python ]
-  - Project 2 (Scrabble II with bot): [joaombmcoelho/scrabble_bot](https://github.com/joaombmcoelho/Scrabble2-FP.git) [ Python ]
+  - Project 1 (Scrabble I): [joaombmcoelho/scrabble](https://github.com/joaombmcoelho/Scrabble1-FP.git)  [Python]
+  - Project 2 (Scrabble II with bot): [joaombmcoelho/scrabble_bot](https://github.com/joaombmcoelho/Scrabble2-FP.git) [Python]
 - Logic for Programming (LP)
-  - Project (A Computational Journey with Prolog): [joaombmcoelho/prolog_journey](https://github.com/joaombmcoelho/Prolog_Journey-LP.git) [ Prolog ]
+  - Project (A Computational Journey with Prolog): [joaombmcoelho/prolog_journey](https://github.com/joaombmcoelho/Prolog_Journey-LP.git) [Prolog]
 
 - Introduction to Algorithms and Data Structures (IAED)
   - Project (Invoicing System): [joaombmcoelho/invoicing_system](https://github.com/joaombmcoelho/Invoicing_system-IAED.git) [C]
