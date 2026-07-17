@@ -1,6 +1,6 @@
 # IST Projects
 
-I'm a Computer Science and Engineering student at Instituto Superior Técnico (IST). This profile showcases the programming projects I developed across various courses.
+I am a Computer Science and Engineering student at Instituto Superior Técnico (IST). This repository showcases the academic projects I have developed across various courses.
 
 ## Academic Projects
 
